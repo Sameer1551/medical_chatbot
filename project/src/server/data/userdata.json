@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1746451223.529",
+    "name": "Sam",
+    "email": "siddheshvikram1@gmail.com",
+    "phone": "9872393401",
+    "password": "4ecde249d747d51d869ae689c44cc1e6191b581b8315edac97990fdc4dce40d7",
+    "created_at": "2025-05-05 13:20:23"
+  },
+  {
+    "id": "1746984659.079606",
+    "name": "aax",
+    "email": "aax@gmail.com",
+    "phone": "0909",
+    "password": "69857c144f48fc4bb4bd895859da03f8300ed51fe88a21b5f6a239ab5d67f617",
+    "created_at": "2025-05-11 23:00:59"
+  }
+]

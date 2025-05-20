@@ -1,0 +1,47 @@
+{
+  "specialists": {
+    "cardiologist": [
+      {
+        "name": "Dr. Arjun Mehta",
+        "hospital": "Heart Care Hospital, Mumbai",
+        "experience": "12 years",
+        "contact": "+91 98765 xxxxx",
+        "availability": "Mon-Fri, 10am - 5pm"
+      },
+      {
+        "name": "Dr. Sneha Kapoor",
+        "hospital": "Apollo Hospitals, Delhi",
+        "experience": "10 years",
+        "contact": "+91 90123 xxxxx",
+        "availability": "Mon-Sat, 9am - 4pm"
+      }
+    ],
+    "dermatologist": [
+      {
+        "name": "Dr. Ritu Sharma",
+        "hospital": "Skin Care Clinic, Pune",
+        "experience": "8 years",
+        "contact": "+91 90909 xxxxx",
+        "availability": "Tue-Sat, 11am - 6pm"
+      }
+    ],
+    "neurologist": [
+      {
+        "name": "Dr. Karan Desai",
+        "hospital": "Neuro Plus Center, Bangalore",
+        "experience": "15 years",
+        "contact": "+91 98765 xxxxx",
+        "availability": "Mon-Fri, 9am - 2pm"
+      }
+    ],
+    "pediatrician": [
+      {
+        "name": "Dr. Priya Nair",
+        "hospital": "Mother & Child Hospital, Kochi",
+        "experience": "9 years",
+        "contact": "+91 91234 xxxxx",
+        "availability": "Mon-Sat, 10am - 3pm"
+      }
+    ]
+  }
+}
